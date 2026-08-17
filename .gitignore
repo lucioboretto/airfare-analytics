@@ -19,4 +19,6 @@ data/raw/*
 !data/raw/.gitkeep
 
 data/processed/*
-!data/processed/.gitkeep
+!data/processed/.gitkeepnotebooks/random_forest_flight_price_model.pkl
+notebooks/catboost_info/
+/notebooks/random_forest_flight_price_model.pkl
